@@ -41,4 +41,5 @@ $ mocha test -t '001.Two Sum' --ruby
 
 | #    | Title                                                                                                                               | Solution                                                                                                           |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 0382 | [Linked List Random Node](https://github.com/skladany/leetcode/tree/main/algorithms/0382.Linked%20List%20Random%20Node)             | [js](https://github.com/skladany/leetcode/tree/main/algorithms/0382.Linked%20List%20Random%20Node/index.js)        |
 | 0104 | [Maximum Depth of Binary Tree](https://github.com/skladany/leetcode/tree/main/algorithms/0104.Maximum%20Depth%20of%20Binary%20Tree) | [js](https://github.com/skladany/leetcode/tree/main/algorithms/0104.Maximum%20Depth%20of%20Binary%20Tree/index.js) |
