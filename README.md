@@ -1,8 +1,4 @@
-# Leetcode Problems
-
-Tracking my progress through leetcode. Currently working on the December 2020 Leetcode challenge.
-
-**HUGE** shoutout to @suguru03's [https://github.com/suguru03/leetcode](https://github.com/suguru03/leetcode) leetcode environment!
+# leetcode
 
 ## Create a new problem
 
@@ -43,6 +39,6 @@ $ mocha test -t '001.Two Sum' --ruby
 
 ## Links
 
-| #   | Title | Solution |
-| --- | ----- | -------- |
-
+| #    | Title                                                                                                                                 | Solution                                                                                                             |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 0104 | [Maximum Depth of Binary Tree](https://github.com/suguru03/leetcode/tree/master/algorithms/0104.Maximum%20Depth%20of%20Binary%20Tree) | [js](https://github.com/suguru03/leetcode/tree/master/algorithms/0104.Maximum%20Depth%20of%20Binary%20Tree/index.js) |
