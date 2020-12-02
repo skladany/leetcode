@@ -7,7 +7,7 @@ const basepath = path.resolve(rootdir, 'algorithms');
 const base = fs.readFileSync(path.resolve(rootdir, 'template', 'README.md'), 'utf8');
 
 const re = /^(?!\d)/;
-const baseurl = 'https://github.com/suguru03/leetcode/tree/master/algorithms/';
+const baseurl = 'https://github.com/skladany/leetcode/tree/main/algorithms/';
 const solutionMap = {
   js: 'index.js',
   ts: 'index.ts',
