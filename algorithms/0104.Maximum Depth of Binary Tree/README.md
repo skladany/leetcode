@@ -1,5 +1,18 @@
 ## 0104. Maximum Depth of Binary Tree
 
+### Notes:
+
+This one was pretty easy. I immediately thought "Depth first search" when I saw this problem.
+
+Normally I'd solve this iteratively -- but that's a lot of extra code for no real performance gain
+(since the iterative solution basically replicates a call stack)
+
+So, quick recursive function + keeping track of the max.
+
+Tail Recursion seems to be the best solution according to leetcode.
+
+---
+
 https://leetcode.com/problems/maximum-depth-of-binary-tree
 
 Given the root of a binary tree, return its maximum depth.
