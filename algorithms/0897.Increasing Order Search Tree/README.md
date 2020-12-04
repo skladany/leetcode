@@ -8,6 +8,8 @@ Then I strugled with an off-by-one error. I ended up with an empty node at the e
 
 ...but that's hot leetcode did it, so I guess that's fine!
 
+---
+
 https://leetcode.com/problems/increasing-order-search-tree
 
 Given the root of a binary search tree, rearrange the tree in in-order so that the leftmost node in the tree is now the root of the tree, and every node has no left child and only one right child.
