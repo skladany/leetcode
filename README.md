@@ -1,4 +1,8 @@
-# leetcode
+# Leetcode Problems
+
+Working though the December 2020 Leetcode challenge.
+
+Problem solutions are mine -- but the excellent build system is borrowed from [@suguru03](https://github.com/suguru03/leetcode)
 
 ## Create a new problem
 
